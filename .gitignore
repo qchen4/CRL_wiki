@@ -1,0 +1,2 @@
+# Ignore the LocalSettings.php file - this should be set up manually by each user for their machine
+LocalSettings.php
